@@ -91,3 +91,10 @@ footer {
 a:hover {
 	border-bottom: 2px solid #FFFFFF;
 }
+button{
+	background-color: #F15B31;
+	padding: 10px;
+	font-family: Raleway;
+	font-size: 20px;
+	color: #FFFFFF;
+}
